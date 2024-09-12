@@ -1,14 +1,10 @@
-<h1 align="center">Hi 👋, I'm MIHIR RAM SHIRSATH</h1>
+<h1 align="center">Hi 👋, I'm Mihir</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=coderonwheel&label=Profile%20views&color=0e75b6&style=flat" alt="coderonwheel" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coderonwheel" alt="coderonwheel" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **Python, MySQL, Django**
-- 
+  
 - 🔭 I’m currently working on **Python and MySQL to analyze data and provide actionable insights**
 
 - 👯 I’m looking to collaborate on **projects that focus on data analysis and business intelligence.**
@@ -21,6 +17,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://www.linkedin.com/in/mihir-ram-shirsath-6b542b22b/" target="blank">
+    <img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
+  </a>
+  <a href="mailto:mihirshirsath2308@gmail.com" target="blank">
+    <img align="center" src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" />
+  </a>
+  <a href="https://your-portfolio-link.com" target="blank">
+    <img align="center" src="https://img.icons8.com/color/48/000000/web.png" alt="Portfolio" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

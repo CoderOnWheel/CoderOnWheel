@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **Python, MySQL, Django**
+- 🌱 I’m currently learning **Python, MySQL**
   
 - 🔭 I’m currently working on **Python and MySQL to analyze data and provide actionable insights**
 

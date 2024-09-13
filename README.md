@@ -11,8 +11,6 @@
 
 - 🤝 I’m looking for help with **mastering data modeling and business intelligence concepts.**
 
-- 💬 Ask me about **React, Javascript**
-
 - 📫 How to reach me **mihirshirsath2308@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

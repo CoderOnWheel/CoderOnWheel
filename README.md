@@ -21,10 +21,6 @@ Motivated frontend developer with a growing passion for data analysis. I aim to 
 
 ### 💼 Featured Projects
 
-- 🧾 **Invoice Management App** – Next.js + MongoDB + Tailwind  
-  Automates invoice creation, filtering, and CRUD operations.  
-  🔗 [Live Demo](https://your-live-link.com) • 💻 [Code](https://github.com/yourusername/invoice-app)
-
 - 📊 **Sales Data Dashboard** – Python + Pandas + Matplotlib  
   Cleaned and visualized real-world sales data for business insight.  
   📎 [Notebook](https://nbviewer.org/url/your-notebook-link)

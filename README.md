@@ -1,57 +1,56 @@
 <h1 align="center">Hi 👋 I'm Mihir Shirsath</h1>
-<h3 align="center">Frontend Developer | Data Enthusiast | BI Learner</h3>
+<h3 align="center">Aspiring Data & BI Developer | Cloud Enthusiast | Lifelong Learner</h3>
 
 ---
 
 ### 🎯 Career Objective
-Motivated **Frontend Developer** with a growing interest in **Data Analytics & Business Intelligence**. I build clean, user-focused web applications and actionable data dashboards. Currently enhancing skills in **Next.js, Tailwind CSS, Python, SQL, and Power BI** to deliver impactful solutions in hybrid frontend & data roles.
+Fresher passionate about **data analytics, business intelligence, and cloud technologies**. Eager to learn, grow, and contribute to impactful projects. Motivated to transform raw data into actionable insights and build scalable dashboards. Currently learning **SQL, Python, Power BI, AWS, and Azure** to kickstart a successful career in data-focused roles.
 
 ---
 
 ### 🚀 About Me
-- 👨‍💻 Passionate about **frontend development** & **data visualization**  
-- 📊 Exploring **data analytics** with **Python, SQL & Power BI**  
-- 🧠 Currently learning: **TypeScript, Next.js App Router, Power BI Dashboards**  
-- 🤝 Open to opportunities in **frontend, data-focused, or hybrid roles**  
+- 📊 Enthusiastic about **data analysis, visualization, and BI dashboards**  
+- 🧠 Eager to learn **cloud platforms, advanced analytics, and modern frontend tools**  
+- 👨‍💻 Skilled in **Python, SQL, data cleaning, and visualization basics**  
+- 🤝 Open to opportunities in **entry-level BI, data analytics, or hybrid roles**  
 - 📫 Reach me at: [mihirshirsath2308@gmail.com](mailto:mihirshirsath2308@gmail.com)
 
 ---
 
 ### 💼 Featured Projects
 - 📊 **Sales Data Dashboard** – Python + Pandas + Matplotlib  
-  Cleaned, analyzed, and visualized real-world sales data to generate actionable insights.  
+  Cleaned and visualized sales data to generate actionable insights.  
   🔗 [View Notebook](https://nbviewer.org/url/your-notebook-link)
 
-- 🌐 **Personal Portfolio Website** – React + Tailwind CSS  
-  Responsive portfolio showcasing my projects, skills & contact.  
-  🔗 [Visit Portfolio](https://yourportfolio.com)
-
 - 📈 **Power BI Analytics Dashboard** – Power BI + SQL  
-  Interactive dashboards for business data reporting & visualization.  
+  Created interactive dashboards for business reporting and decision-making.  
   🔗 [Demo / Screenshot Link]
+
+- 🌐 **Personal Portfolio Website** – React + Tailwind CSS  
+  Showcases my projects, skills & contact information.  
+  🔗 [Visit Portfolio](https://yourportfolio.com)
 
 ---
 
 ### 🧠 Currently Learning
-- **Next.js 14** – App Router, Server Actions, SEO  
-- **TypeScript** – Scalable & safer frontend development  
-- **SQL & Data Modeling** – For analytics & reporting  
-- **Power BI** – Enterprise dashboards & insights  
+- **Cloud Platforms** – AWS (S3, EC2) & Azure (Data Factory, Power BI integration)  
+- **Power BI Advanced Analytics** – DAX, Data Modeling, Interactive Dashboards  
+- **SQL & Data Modeling** – For analytics, ETL, and reporting  
+- **Python for Data** – Pandas, NumPy, Matplotlib, Seaborn  
+- **Modern Frontend Tools** – React, Next.js, Tailwind CSS  
 
 ---
 
 ### ⚙️ Tech Stack
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" title="React" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" title="Tailwind CSS" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" title="JavaScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" title="TypeScript" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" title="Python" />
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" title="SQL Server" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo.svg" width="40" title="Power BI" />
+  <img src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-1.svg" width="40" title="AWS" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" width="40" title="Azure" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" title="React" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" title="Tailwind CSS" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" title="Git" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" title="HTML5" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" title="CSS3" />
 </p>
 
 ---

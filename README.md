@@ -20,15 +20,14 @@ Fresher passionate about **data analytics, business intelligence, and cloud tech
 ### 💼 Featured Projects
 - 📊 **Sales Data Dashboard** – Python + Pandas + Matplotlib  
   Cleaned and visualized sales data to generate actionable insights.  
-  🔗 [View Notebook](https://nbviewer.org/url/your-notebook-link)
-
+ 
 - 📈 **Power BI Analytics Dashboard** – Power BI + SQL  
   Created interactive dashboards for business reporting and decision-making.  
-  🔗 [Demo / Screenshot Link]
+
 
 - 🌐 **Personal Portfolio Website** – React + Tailwind CSS  
   Showcases my projects, skills & contact information.  
-  🔗 [Visit Portfolio](https://yourportfolio.com)
+  
 
 ---
 
